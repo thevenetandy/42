@@ -1,0 +1,7 @@
+Credentials cache: API:789CDBA4-E6E5-4C95-A4C7-176865AAC1EC
+        Principal: athevene@42.FR
+
+  Issued                Expires               Principal
+Jul  2 13:57:58 2018  Jul  9 13:57:58 2018  krbtgt/42.FR@42.FR
+Jul  2 13:58:00 2018  Jul  9 13:57:58 2018  ldap/ldap-proxy.42.fr@42.FR
+Jul  2 13:58:01 2018  Jul  9 13:57:58 2018  HTTP/student-storage-2.42.fr@42.FR
